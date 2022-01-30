@@ -36,6 +36,6 @@ def tampilkan_data(result):
     print(f"keempat: {result['keempat']['berita']}, {result['keempat']['sumber']}, {result['keempat']['update']}")
     print(f"kelima: {result['kelima']['berita']}, {result['kelima']['sumber']}, {result['kelima']['update']}")
 
-# if __name__ == '__main__':
-#     print('Aplikasi package berita terkini')
+#if __name__ == '__main__':
+#print('Aplikasi package berita terkini')
 #forpackage
