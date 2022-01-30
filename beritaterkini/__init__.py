@@ -38,3 +38,4 @@ def tampilkan_data(result):
 
 # if __name__ == '__main__':
 #     print('Aplikasi package berita terkini')
+#forpackage
